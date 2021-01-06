@@ -1,0 +1,111 @@
+body {
+    margin: 0%;
+}
+h1 {
+    color:rgb(43, 186, 243) ;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px; 
+}
+
+h2 {
+    color:darkslateblue;
+    font-family:'Merriweather', serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top:55%;
+}
+
+section {height: 250px;
+    
+}
+
+
+span { 
+    color: crimson;
+}
+
+p { font-size: 15px;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+}
+.half-width {
+    width: 45%;
+    float: left;
+    margin: 10px 20px;
+}
+
+.half-width img{
+    width: 85%;
+    margin-left:10%;
+    margin-top: 5%;
+}
+.button {
+    color: white;
+    text-decoration: none;  
+    font-weight: bold;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,orange,red);
+    border-radius: 10px;
+}
+.work-project {
+    width:25%;
+    box-shadow:5px 5px 20px grey;
+    border-radius: 15px;
+    padding: 20px 20px;
+    float: left;
+    margin-left: 60px;
+    text-align: justify;
+}
+h3 {
+    font-size: 25px;
+    font-family:'Merriweather', serif; 
+    color: indigo;
+}
+.work-project img {
+    width: 100%;    
+}
+
+.inquiry {
+    height: 250px;
+    margin-top: 30%;
+    margin-left: 15%;
+    background-image:url(images/Group_33094_1.png);
+    width: 71%;
+    background-size: cover;
+
+}
+
+#chat-button {
+    margin-left: 70%; 
+    margin-bottom: 60%; 
+}
+
+.work-text h3 {
+    color:white;
+    font-size: 30px;
+    text-align: left;
+    padding-left: 20%;
+    padding-top: 10%;
+       
+}
+footer {
+    margin-top: 10%;
+    text-align: center;
+}
+h4 {
+    color: darkorange;
+    font-size: 25px;
+    font-weight: bold;
+}
+footer img {
+    width: 3%;
+   float: left;
+}
+
+.main-paragraph{
+background-color:lavender;
+border-radius: 15px;
+padding: 10px 10px;
+}
+
